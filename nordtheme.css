@@ -1,15 +1,13 @@
 /**
- * @name midnight (nord)
- * @description A darkened discord theme. Based on nord theme (https://github.com/nordtheme/nord).
- * @author refact0r, anubis
+ * @name Nerd (Nord)
+ * @description A darkened discord theme
+ * @author Denji
  * @version 1.6.2
- * @source https://github.com/refact0r/midnight-discord
- * @authorId 508863359777505290
 */
 
 /* IMPORTANT: make sure to enable dark mode in discord settings for the theme to apply properly!!! */
 
-@import url('https://itsdevilcrossy69.github.io/CrossyThemeIndex/mignightcolor.css');
+@import url('https://itsdevilcrossy69.github.io/CrossyThemeIndex/midnightcolor.css');
 
 /* customize things here */
 :root {
