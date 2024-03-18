@@ -85,7 +85,7 @@
 
 /* catppuccin icon */
 .childWrapper__01b9c:has(> svg:not(.favoriteIcon_adf80e)) {
-	background: url('https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png');
+	background: url('https://cdn-icons-png.flaticon.com/512/734/734687.png');
 	background-color: transparent !important;
 	background-size: cover;
 }
