@@ -1,9 +1,8 @@
 /**
  * @name midnight (catppuccin macchiato)
  * @description A darkened discord theme. Based on catppuccin theme (https://github.com/catppuccin/catppuccin).
- * @author refact0r, esme, anubis
+ * @author Denji
  * @version 1.6.2
- * @source https://github.com/refact0r/midnight-discord
  * @authorId 508863359777505290
 */
 
@@ -85,7 +84,7 @@
 
 /* catppuccin icon */
 .childWrapper__01b9c:has(> svg:not(.favoriteIcon_adf80e)) {
-	background: url('https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png');
+	background: url('https://cdn-icons-png.flaticon.com/512/5452/5452088.png');
 	background-color: transparent !important;
 	background-size: cover;
 }
