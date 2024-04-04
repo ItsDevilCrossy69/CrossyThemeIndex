@@ -6,23 +6,21 @@
 */
 
 :root .container__4bde3 > .content__0e954 {
-  position: relative;
+.container__827e6 video.ready__61f2f {
+    display: none;
 }
-:root .container__4bde3 > .content__0e954 .ready__61f2f {
-  display: none;
-}
-:root .container__4bde3 > .content__0e954 .ready__61f2f + .text__32559 {
-  top: 50px;
-}
-:root .container__4bde3 > .content__0e954::before {
-  content: "";
-  position: absolute;
-  bottom: 10px;
-  left: calc(50% - 100px);
-  width: 200px;
-  height: 200px;
-  background: url("https://media.discordapp.net/stickers/1217112512374505613.png?size=240") center/80% no-repeat !important;
-  image-rendering: pixelated;
+.content_de05de::before {
+    visibility: visible;
+    content: '';
+    display: block;
+    background: url(https://media.discordapp.net/stickers/1217112512374505613.png?size=240);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 128px;
+    height: 128px;
+    margin: auto;
+    margin-bottom: 48px;
 }
 
 /* Replace the settings donation banner image */
