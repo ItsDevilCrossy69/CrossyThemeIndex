@@ -21,6 +21,12 @@
   left: calc(50% - 100px);
   width: 200px;
   height: 200px;
-  background: url("https://media.discordapp.net/stickers/1217112512374505613.png?size=160&passthrough=true") center/80% no-repeat !important;
+  background: url("https://media.discordapp.net/stickers/1217112512374505613.png?size=240") center/80% no-repeat !important;
   image-rendering: pixelated;
+}
+
+/* Replace the settings donation banner image */
+img[role="presentation"] {
+  content: url('https://media.discordapp.net/stickers/1217112512374505613.png?size=240') !important;
+  transform: rotate(0deg) !important;
 }
