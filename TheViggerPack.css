@@ -5,7 +5,6 @@
 * @version 1.0
 */
 
-:root .container__4bde3 > .content__0e954 {
 .container__827e6 video.ready__61f2f {
     display: none;
 }
@@ -13,7 +12,7 @@
     visibility: visible;
     content: '';
     display: block;
-    background: url(https://media.discordapp.net/stickers/1217112512374505613.png?size=240);
+    background: url(https://media.discordapp.net/stickers/1225414088939802698.png?size=160&passthrough=true);
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
